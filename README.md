@@ -122,6 +122,7 @@ Best Practice documentation steps:
 * Add comments to code to explain purpose and logic
 * Clarify intent / functionality of code to other developers
 * Add screenshot of completed work included in Markdown in README.
+![alt text](image.png)
 * Update README text to reflect the functionality of the application following https://makeareadme.com. 
 * Delete any stale branches on GitHub
 * Remove unnecessary/commented out code
